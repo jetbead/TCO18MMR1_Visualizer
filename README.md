@@ -15,5 +15,5 @@ https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17153
 
 ## how to run
 ```
-$ python python src/visualizer.py
+$ python src/visualizer.py
 ```
